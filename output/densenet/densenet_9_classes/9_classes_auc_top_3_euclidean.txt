@@ -1,0 +1,16 @@
++-------------------------------+-------+-------+-------+
+|           Label Name          |  mAP  |  mHR  |  mRR  |
++-------------------------------+-------+-------+-------+
+|          lung opacity         | 0.963 | 0.987 | 0.943 |
+|        pleural effusion       | 0.921 | 0.897 | 0.885 |
+|          atelectasis          | 0.846 | 0.854 | 0.803 |
+|  enlarged cardiac silhouette  |  0.88 | 0.879 | 0.835 |
+|  pulmonary edema/hazy opacity | 0.852 |  0.79 | 0.813 |
+|          pneumothorax         | 0.827 |  0.49 | 0.762 |
+|         consolidation         | 0.746 | 0.503 | 0.724 |
+|  fluid overload/heart failure | 0.706 |  0.29 |  0.68 |
+|           pneumonia           | 0.796 | 0.664 | 0.762 |
+|         Class Average         | 0.837 | 0.706 | 0.801 |
+| Class Custom Weighted Average | 0.889 | 0.856 | 0.856 |
+|     Class Weighted Average    | 0.889 | 0.856 | 0.856 |
++-------------------------------+-------+-------+-------+

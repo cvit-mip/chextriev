@@ -1,0 +1,23 @@
++------------------------------------+-------+-------+-------+
+|             Label Name             |  mAP  |  mHR  |  mRR  |
++------------------------------------+-------+-------+-------+
+|         right lung opacity         | 0.853 | 0.774 | 0.882 |
+|       right pleural effusion       |  0.67 | 0.487 | 0.707 |
+|         right atelectasis          | 0.587 | 0.358 | 0.617 |
+| right pulmonary edema/hazy opacity | 0.645 | 0.424 | 0.676 |
+|         right pneumothorax         |  0.33 |  0.2  |  0.33 |
+|        right consolidation         | 0.595 | 0.264 | 0.596 |
+| right fluid overload/heart failure | 0.535 | 0.228 | 0.559 |
+|          right pneumonia           | 0.491 |  0.28 | 0.507 |
+|         left lung opacity          | 0.823 | 0.742 | 0.848 |
+|       left pleural effusion        | 0.612 | 0.422 | 0.651 |
+|          left atelectasis          | 0.576 | 0.363 | 0.602 |
+| left pulmonary edema/hazy opacity  | 0.644 | 0.424 | 0.674 |
+|         left pneumothorax          |  0.35 |  0.2  |  0.35 |
+|         left consolidation         | 0.474 | 0.236 | 0.476 |
+| left fluid overload/heart failure  | 0.535 | 0.228 | 0.559 |
+|           left pneumonia           |  0.5  | 0.263 | 0.508 |
+|    enlarged cardiac silhouette     | 0.711 | 0.536 | 0.748 |
+|           Class Average            | 0.584 | 0.378 | 0.605 |
+|       Class Weighted Average       | 0.693 | 0.529 | 0.721 |
++------------------------------------+-------+-------+-------+
