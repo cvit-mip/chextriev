@@ -1,5 +1,6 @@
+![chextriev](assets/readme-chextriev.png)
 
-<h3 align="center">CheXtriev: Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs</h3>
+<h4 align="center">CheXtriev: Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs</h4>
 
 <h4 align="center"><a href="https://narenakash.github.io/">Naren Akash R J</a>&dagger;, <a href="https://arihanth007.github.io/porfolio/about.html">Arihanth Srikar</a>&dagger;, <a href="https://cvit.iiit.ac.in/mip/">Jayanthi Sivaswamy</a></h4>
 
