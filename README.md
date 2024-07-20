@@ -1,5 +1,17 @@
-# CheXtriev
-Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs
+
+<h3 align="center">CheXtriev: Anatomy-Centered Representation for Case-Based Retrieval of Chest Radiographs</h3>
+
+<h4 align="center"><a href="https://narenakash.github.io/">Naren Akash R J</a>&dagger;, <a href="https://arihanth007.github.io/porfolio/about.html">Arihanth Srikar</a>&dagger;, <a href="https://cvit.iiit.ac.in/mip/">Jayanthi Sivaswamy</a></h4>
+
+<p align="center">
+  <a href="#arxiv">ArXiv</a> •
+  <a href="#installation">Installation</a> •
+  <a href="#chextriev">Training</a> •
+  <a href="#citing">Cite</a>
+</p>
+
+> [!NOTE]  
+> 🎉 CheXtriev has been accepted at [MICCAI 2024](https://conferences.miccai.org/2024/en/)!
 
 
 ## Table of Contents
@@ -24,8 +36,8 @@ The main dependencies required are Pytorch, Pytorch Lightning, Pytorch Geometric
 - `graph_transformer` is adapted from the well maintained [GitHub repository](https://github.com/lucidrains/graph-transformer-pytorch) of the graph transformer architecture with added functionalities to support the project requirements.
 - `model` contains definitions and architectures for the various models used in the project.
 - `notebooks` includes Jupyter notebooks used for analysis, visualizations, and initial experiments. These were later converted to Python scripts for streamlined execution.
-- `others` contains scripts for data processing and transferring data to large compute servers, specific to our setup.
-- `output` directory is where results are stored in a tabular format, detailing top-3, top-5, and top-10 retrieved images.
+- `others` contains scripts for data processing and transferring data to HPC cluster, specific to our setup.
+- `output` is where results are stored in a tabular format, detailing top-3, top-5, and top-10 retrieved images.
 - `Res2Net` contains the multi-scale ResNet50 model definition borrowed from [this repository](https://github.com/Res2Net/Res2Net-PretrainedModels).
 - `scripts` includes the command scripts to train any model including hyperparameter tuning.
 
